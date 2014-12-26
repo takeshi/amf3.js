@@ -1,0 +1,22 @@
+{
+  "name": "amf3.js",
+  "version": "0.7.2",
+  "homepage": "https://github.com/takeshi/amf3.js",
+  "description": "amf",
+  "main": "dist/amf.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "amf"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/js/vendor",
+    "test",
+    "tests"
+  ]
+}
