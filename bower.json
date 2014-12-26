@@ -1,6 +1,6 @@
 {
   "name": "amf3.js",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "homepage": "https://github.com/takeshi/amf3.js",
   "description": "amf",
   "main": "dist/amf.js",
